@@ -4,9 +4,10 @@ I do code and art.
 
 check out my [website!](https://fiven1.github.io/personal_web/)
 
-| Nymphaea/Mandelbot set Demo | Nymphaea/Mandelbot set Demo |
-| --- | --- |
-![](res/mandelbrot_set_demo_screenshot1.png)  |  ![](res/mandelbrot_set_demo_screenshot2.png)
+<p float="left">
+  <img src="res/mandelbrot_set_demo_screenshot1.png" width="49%" />
+  <img src="res/mandelbrot_set_demo_screenshot2.png" width="49%" /> 
+</p>
 
 
 <!--
