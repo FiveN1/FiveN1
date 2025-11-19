@@ -2,7 +2,7 @@
 
 I do code and art.
 
-check out my [website!](https://fiven1.github.io/web/)
+more about me [here!](https://fiven1.github.io/web/)
 
 <p float="left">
   <img src="res/mandelbrot_set_demo_screenshot1.png" width="49%" />
